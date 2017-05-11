@@ -1,6 +1,14 @@
 body{
 background: url("images/denver.jpg") center;
 }
+
+@media all and (max-width:900px), (max-device-width:900px){
+body{
+background-image: url("images/denver.jpg");
+background-size: 900px 900px;
+}
+}
+
 @keyframes example {
     0%   {background-color:red; left:0px; top:0px;}
     25%  {background-color:yellow; left:200px; top:0px;}
