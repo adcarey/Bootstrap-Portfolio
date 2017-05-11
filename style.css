@@ -1,5 +1,5 @@
 body{
-background: url("images/denver.jpg");
+background: url("images/denver.jpg") center;
 }
 @keyframes example {
     0%   {background-color:red; left:0px; top:0px;}
