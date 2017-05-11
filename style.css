@@ -4,8 +4,7 @@ background: url("images/denver.jpg") center;
 
 @media all and (max-width:900px), (max-device-width:900px){
 body{
-background-image: url("images/denver.jpg");
-background-size: 900px 900px;
+background-image: url("images/denver2.jpg");
 }
 }
 
