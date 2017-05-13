@@ -163,5 +163,6 @@ background-image: url("images/denver2.jpg");
 }
 .navbar-text{
 	float: none;
+	text-align: center;
 }
 
