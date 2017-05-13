@@ -153,6 +153,6 @@ background-image: url("images/denver2.jpg");
 	padding-bottom: 0;
 	margin-top: 200px;
 }
-.bottom{
-	padding-left: 40%;
+.navbar-text{
+	text-align: center;
 }
