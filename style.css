@@ -8,12 +8,20 @@ background-image: url("images/denver2.jpg");
 }
 }
 
+
+
 @keyframes example {
     0%   {background-color:red; left:0px; top:0px;}
     25%  {background-color:yellow; left:200px; top:0px;}
     50%  {background-color:blue; left:400px; top:0px;}
     75%  {background-color:green; left:600px; top:0px;}
     100% {background-color:pink; left:0px; top:0px; right: 600px;}
+}
+.panel-title{
+	text-align: center;
+}
+.panel-body{
+	text-align: center;
 }
 
 /* The element to apply the animation to */
@@ -154,8 +162,6 @@ background-image: url("images/denver2.jpg");
 	margin-top: 200px;
 }
 .navbar-text{
-	text-align: center;
+	float: none;
 }
-.footer{
-	margin-left: 38%;
-}
+
